@@ -6,5 +6,5 @@ It should be noted that this is not a permanent fix and it is recommended to re-
 If your files are stored in a different directory than the ones provided in the code, you will also need to find your SteamVR and openvr folders and change the paths accordingly.
 
 # To-Do
-* Add better error handling, currently just checks just attempts to change without checking first, raises flag if error in renaming operation.
+* Add better error handling, currently just attempts to change file name without checking name first, reports if error in renaming operation.
 * Let file paths be changed by user.
